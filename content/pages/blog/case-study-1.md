@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/card.png
+  url: /images/452061509_960121832556910_4150457989943863014_n.jpg
   altText: Case study 1
   styles:
     self:
