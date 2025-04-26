@@ -7,10 +7,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
-          - pl-7
-          - pb-7
-          - pr-7
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
     type: DividerSection
   - type: GenericSection
     title:
