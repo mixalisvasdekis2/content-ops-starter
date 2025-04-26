@@ -2,16 +2,6 @@
 title: Home
 slug: /
 sections:
-  - title: FLIPSTA
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-10
-          - pl-10
-          - pb-10
-          - pr-10
-    type: DividerSection
   - type: GenericSection
     title:
       text: FROM THE STREETS TO THE STREETS
