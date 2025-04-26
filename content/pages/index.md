@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-          textAlign: left
+          textAlign: center
     subtitle: ''
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
