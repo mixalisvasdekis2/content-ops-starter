@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: NIKE AIR FORCE 1
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
