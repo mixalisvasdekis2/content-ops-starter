@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - title: Divider
+  - title: FLIPSTA
     colors: bg-light-fg-dark
     styles:
       self:
